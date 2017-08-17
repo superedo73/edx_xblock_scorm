@@ -11,7 +11,6 @@ Installation
 
 Install package
 
-    pip install -e git+https://github.com/raccoongang/edx_xblock_scorm.git#egg=edx_xblock_scorm
+    pip install -e git+https://github.com/superedo73/edx_xblock_scorm.git#egg=edx_xblock_scorm
 
 Add `scormxblock` to the list of advanced modules in the advanced settings of a course.
-
